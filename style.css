@@ -1,0 +1,17 @@
+#Password{
+   position: relative;
+   width: 97%;
+}
+
+.s_h_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:0 2vw;
+    position: absolute;
+    float: right;
+    right: 0;
+    transform: translate(10%,50%);
+    font-size: 0.8em;
+    color: #3E3E3EB8;
+}
